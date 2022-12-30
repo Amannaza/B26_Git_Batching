@@ -1,1 +1,1 @@
-package test_cases;public class TC002 {    //Test case 2    //writing smoke test....}
+package test_cases;public class TC002 {    //Test case 2    //writing smoke test....    //reating a repport    //screenhot in failure}
